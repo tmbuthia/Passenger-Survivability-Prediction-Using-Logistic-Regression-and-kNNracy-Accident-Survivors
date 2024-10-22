@@ -1,4 +1,4 @@
-# Passenger-Survivability-Prediction-Using-Logistic-Regression-and-kNNracy-Accident-Survivors
+# Passenger-Survivability-Prediction-Using-Logistic-Regression-and-kNN to see accuracy-Accident-Survivors
 This project analyzes a dataset containing information about vehicle crash accidents in the USA. The focus is on predicting the survivability of passengers based on their age and vehicle speed using logistic regression and k-Nearest Neighbors (kNN) models. The goal is to compare the performance of these models in predicting passenger outcomes.
 # Overview
 This project analyzes the survivability of passengers involved in vehicle crashes based on their age and the speed of the vehicle at the time of impact. The dataset used comes from data.gov, focusing on passenger survival (1 = survived, 0 = did not survive). The analysis compares the performance of two machine learning models—Logistic Regression and k-Nearest Neighbors (kNN)—in predicting survivability based on age, speed, and both features.
